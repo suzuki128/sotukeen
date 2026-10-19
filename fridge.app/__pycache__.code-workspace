@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"name": "__pycache__",
+			"path": "../__pycache__"
+		},
+		{
+			"name": "fridge.app",
+			"path": "."
+		},
+		{
+			"name": "node_modules",
+			"path": "../node_modules"
+		},
+		{
+			"name": "server",
+			"path": "../server"
+		},
+		{
+			"name": "src",
+			"path": "../src"
+		},
+		{
+			"name": "uploads",
+			"path": "../uploads"
+		},
+		{
+			"name": "sotugyou",
+			"path": "../../Users/student/sotugyou"
+		}
+	],
+	"settings": {}
+}
